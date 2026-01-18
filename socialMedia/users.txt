@@ -1,0 +1,40 @@
+u3
+Muneeb Arif
+u11,u12
+-1
+u7
+Shahem Riaz
+u3,u11,u12
+p1,p2,p5,p9
+u11
+Ahsan Saeed
+u7
+-1
+u12
+Ali Chapri
+u7
+-1
+u2
+Abdullah Farooq
+-1
+-1
+u4
+Burhan Tahir
+-1
+-1
+u6
+Saad Ali
+-1
+-1
+u9
+Nimra Batool
+-1
+-1
+u13
+Haris Muneer
+-1
+-1
+u1
+Muhammad Ali
+-1
+-1

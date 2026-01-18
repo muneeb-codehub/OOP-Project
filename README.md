@@ -97,8 +97,8 @@ g++ main.cpp socialMedia.cpp -o socialMedia
 
 ### 1. Set Current User
 ```
-Command: Set current user "u7"
-Shahem Riaz successfully set as Current User
+Command: Set current user "u3"
+Muneeb Arif successfully set as Current User
 
 Command:
 System Date: 15/11/2017
@@ -108,8 +108,8 @@ System Date: 15/11/2017
 ```
 Command: View Friend List
 -----------------------------------
-Shahem Riaz - Friend List
-u3 - Muneeb Arif
+Muneeb Arif - Friend List
+u7 - Shahem Riaz
 u11 - Ahsan Saeed
 u12 - Ali Chapri
 -----------------------------------
@@ -119,7 +119,7 @@ u12 - Ali Chapri
 ```
 Command: View Liked Pages
 -----------------------------------
-Shahem Riaz - Liked Pages
+Muneeb Arif - Liked Pages
 p1 - Food Fusion
 p2 - Al Jazeera English
 p5 - Rumi Quotes
@@ -131,7 +131,7 @@ p9 - BBC News
 ```
 Command: View Home
 -----------------------------------
-Shahem Riaz - Home Page
+Muneeb Arif - Home Page
 
 --- Food Fusion is making Kashmiri Chai (Pink Tea)
 "Try this at home..."
@@ -144,7 +144,7 @@ Shahem Riaz - Home Page
 "Waiting for Weekend"
  ... (15/11/2017)
 	Saad Ali wrote: "Any plans for Get Together?"
-	Shahem Riaz wrote: "Yes BBQ"
+	Muneeb Arif wrote: "Yes BBQ"
 	Nimra Batool wrote: "Lunch Buffet please"
 
 --- Al Jazeera English
@@ -163,14 +163,14 @@ Shahem Riaz - Home Page
 ```
 Command: View TimeLine
 -----------------------------------
-Shahem Riaz - Time Line
+Muneeb Arif - Time Line
 
---- Shahem Riaz is celebrating a birthday
-"Happy Birthday to my dear Mom"
+--- Muneeb Arif is celebrating a birthday
+"Happy Birthday to my dear Brother"
  ... (14/11/2017)
-	Muneeb Arif wrote: "Happy Birthday Aunty"
+	Shahem Riaz wrote: "Happy Birthday Brother"
 
---- Shahem Riaz is celebrating a birthday
+--- Muneeb Arif is celebrating a birthday
 "Happy Birthday to my dear Father"
  ... (14/10/2017)
 	Ahsan Saeed wrote: "Happy Birthday Uncle"
@@ -184,7 +184,7 @@ Command: ViewLikedList(post5)
 Post Liked By:
 u2 - Abdullah Farooq
 p1 - Food Fusion
-u3 - Muneeb Arif
+u7 - Shahem Riaz
 u4 - Burhan Tahir
 -----------------------------------
 ```
@@ -197,7 +197,6 @@ Command: ViewLikedList(post5)
 Post Liked By:
 u2 - Abdullah Farooq
 p1 - Food Fusion
-u3 - Muneeb Arif
 u4 - Burhan Tahir
 u7 - Shahem Riaz
 -----------------------------------
@@ -246,9 +245,9 @@ Food Fusion
 ```
 Command: Search("Birthday")
 Posts:
---- post8 - Shahem Riaz is celebrating a birthday
-"Happy Birthday to my dear Mom" ... (14/11/2017)
---- post9 - Shahem Riaz is celebrating a birthday
+--- post8 - Muneeb Arif is celebrating a birthday
+"Happy Birthday to my dear Brother" ... (14/11/2017)
+--- post9 - Muneeb Arif is celebrating a birthday
 "Happy Birthday to my dear Father" ... (14/10/2017)
 --- post15 - Haris Muneer is celebrating a birthday
 "Happy Birthday Ali Bhai" ... (10/10/2017)
